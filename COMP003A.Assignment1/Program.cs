@@ -22,7 +22,7 @@ namespace COMP003A.Assignment1
             Console.WriteLine("7. Major: Information Systems");
             Console.WriteLine("8. Hobbies:");
             Console.WriteLine("9.  - Gaming");
-            Console.WriteLine("10. - Watching");
+            Console.WriteLine("10. - Watching & Reading");
             Console.WriteLine("11. - Eating");
             Console.WriteLine("12. - Listening to music");
             Console.WriteLine("13. Games played:");
@@ -72,7 +72,47 @@ namespace COMP003A.Assignment1
             Console.WriteLine("57. - Overwatch 2");
             Console.WriteLine("58. - Resident Evil: Village");
             Console.WriteLine("59. - Outlast");
-
+            Console.WriteLine("60. - Overcooked 2");
+            Console.WriteLine("61. - Fortnite");
+            Console.WriteLine("62. - Borderlands 3");
+            Console.WriteLine("63. - Green Hell");
+            Console.WriteLine("64. - Plates Up");
+            Console.WriteLine("65. - GTA:San Andreas");
+            Console.WriteLine("66. - Among Us");
+            Console.WriteLine("67. - Darkest Dungeon");
+            Console.WriteLine("68. - Hitman:Blood Money");
+            Console.WriteLine("69. - FEAR");
+            Console.WriteLine("70. - Prototype");
+            Console.WriteLine("71. - Star Wars:Battlefront");
+            Console.WriteLine("72. - World War Z");
+            Console.WriteLine("73. - Civilization V");
+            Console.WriteLine("74. - Rocket League");
+            Console.WriteLine("75. - Patapon 2");
+            Console.WriteLine("76. - Patapon 3");
+            Console.WriteLine("77. - Dark Souls 1");
+            Console.WriteLine("78. - Dark Souls 2");
+            Console.WriteLine("79. - Gang Beasts");
+            Console.WriteLine("80. - Total War:Rome");
+            Console.WriteLine("81. - Company of Heroes");
+            Console.WriteLine("82. - World of Warcraft:Frozen Throne");
+            Console.WriteLine("83. - Battle Realms");
+            Console.WriteLine("84. - Genshin Impact");
+            Console.WriteLine("85. - Zelda:Breath of the Wild");
+            Console.WriteLine("86. - Mario Kart 8");
+            Console.WriteLine("87. Top 5 Anime");
+            Console.WriteLine("88. - Fullmetal Alchemist Brotherhood");
+            Console.WriteLine("89. - Cyberpunk Edgerunners");
+            Console.WriteLine("90. - Neon Genesis Evangelion");
+            Console.WriteLine("91. - Trigun");
+            Console.WriteLine("92. - Cowboy Bepop");
+            Console.WriteLine("93. Top 3 Mangas");
+            Console.WriteLine("94. - Frieren at the Funeral");
+            Console.WriteLine("95. - Chainsawman");
+            Console.WriteLine("96. - Spy x Family");
+            Console.WriteLine("97. Liked TV Shows: Stranger Things, Wednesday, Breaking Bad");
+            Console.WriteLine("98. Music Taste: Pop, Rock, Classical");
+            Console.WriteLine("99. Food I Like:");
+            Console.WriteLine("100. - Japanese Cuisine, Seafood, Burgers, Pizza, Sweets, Pastries");
         }
     }
 }
