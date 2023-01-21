@@ -31,8 +31,8 @@ namespace COMP003A.Assignment1
             Console.WriteLine("16. - CSGO ");
             Console.WriteLine("17. - Monster Hunter World");
             Console.WriteLine("18. - Apex Legends");
-            Console.WriteLine("19. - Valorant")
-            Console.WriteLine("20. - Warframe")
+            Console.WriteLine("19. - Valorant");
+            Console.WriteLine("20. - Warframe");
             Console.WriteLine("21. - Dota 2");
             Console.WriteLine("22. - LoL");
             Console.WriteLine("23. - Valheim");
