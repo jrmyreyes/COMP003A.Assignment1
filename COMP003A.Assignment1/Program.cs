@@ -25,6 +25,9 @@ namespace COMP003A.Assignment1
             Console.WriteLine("10. - Watching");
             Console.WriteLine("11. - Eating");
             Console.WriteLine("12. - Listening to music");
+            Console.WriteLine("13. Games played:");
+            Console.WriteLine("14. (In no particular order)");
+            Console.WriteLine("");
 
         }
     }
